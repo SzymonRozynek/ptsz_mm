@@ -2,3 +2,4 @@
 !in/
 !in/**/*
 !.gitignore
+.DS_Store
